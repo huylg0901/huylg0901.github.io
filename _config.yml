@@ -81,35 +81,28 @@ analytics:
 # Site Author
 author:
   name             : "Le Gia Huy"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "huylg.jpg"
+  bio              : "Student at the <a style='color: black;' href='https://daihoc.fpt.edu.vn/nganh-hoc/may-tinh-cntt/tri-tue-nhan-tao-ai/'>Department of Artificial Intelligence</a>, <a style='color: black;' href='https://hcmuni.fpt.edu.vn/'>FPT University Ho Chi Minh</a>"
+  location         : "Ho Chi Minh City, Viet Nam"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "huyclg0909@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "100016610266922"
   foursquare       :
-  github           : "academicpages"
+  github           : "huylg0901"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "le-gia-huy-51620b1a4"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -216,8 +209,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
